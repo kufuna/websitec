@@ -1,0 +1,165 @@
+@media screen and (max-width: 1200px){
+	nav {
+		padding: 40px 50px;
+	}
+	div.ftrd {
+		padding: 20px 50px;
+	}
+	h1 {
+		padding: 0 50px;
+	}
+	div.header_p {
+		padding: 0 50px;
+	}
+	section#first {
+		padding: 100px 100px;
+	}
+}
+@media screen and (max-width: 1000px){
+	nav {
+		padding: 30px 20px;
+	}
+	div.ftrd {
+		padding: 20px 20px;
+	}
+	h1 {
+		padding: 0 20px;
+		text-align: center;
+	}
+	div.header_p {
+		padding: 0 20px;
+	}
+	p.h_p1 {
+		width: 100%;
+		text-align: center;
+		padding: 20px;
+	}
+	p.h_p2 {
+		width: 33.3%;
+		text-align: center;
+		padding-right: 20px;
+	}
+	p.h_p3 {
+		width: 33.3%;
+		text-align: center;
+		padding-right: 20px;
+	}
+	p.h_p4 {
+		width: 33.3%;
+		text-align: center;
+		padding-right: 20px;
+	}
+	div.h_f {
+		background-position: center;
+	}
+	section#first {
+		padding: 100px 20px;
+	}
+	p.s_p_1 {
+		text-align: center;
+	}
+	h2 {
+		text-align: center;
+	}
+	p.s_1_p_2 {
+		text-align: center;
+	}
+	section#first button {
+		margin-left: 50%;
+		transform: translateX(-50%);
+	}
+	div.s_3_b {
+		width: 50%;
+	}
+	footer {
+		padding: 140px 50px;
+	}
+	div#scroll {
+		right: 150px;
+	}
+}
+@media screen and (max-width: 700px) {
+	div.u_mail {
+		display: none;
+	}
+	div.u_mob {
+		display: none;
+	}
+	div.h_f {
+		width: 100%;
+		height: 750px;
+	}
+	div.h_f_n {
+		transform: rotate(0deg) translateX(-50%);
+		top: -25px;
+		left: 50%;
+	}
+	div.ftrd {
+		padding: 0 10px;
+	}
+	div.header_p {
+		padding: 0;
+	}
+	section#first {
+		padding: 50px 20px;
+	}
+	div.s_1_p p {
+		width: 100%;
+		text-align: center;
+	}
+	div.s_2_1 {
+		display: none;
+	}
+	div.s_2_2 {
+		width: 100%;
+		margin: 0;
+	}
+	div.s_3_b {
+		width: 100%;
+		text-align: center;
+		border-top: 1px solid rgb(126, 126, 126);
+	}
+	div.s_4 {
+		padding: 180px 0;
+	}
+	footer {
+		padding: 100px 20px;
+	}
+	footer p {
+		text-align: center;
+	}
+	div.soc_m {
+		margin-left: 50%;
+		text-align: center;
+		transform: translateX(-50%);
+	}
+	div#scroll {
+		top: 20px;
+		right: 50%;
+		transform: translateX(50%);
+	}
+	div#menu_bar a {
+		display: block;
+		width: 100%;
+	}
+	div#menu_bar span {
+		top: 27px;
+	}
+}
+@media screen and (max-width: 500px){
+	p.h_p2 {
+		width: 100%;
+		text-align: center;
+		padding-right: 20px;
+	}
+	p.h_p3 {
+		width: 100%;
+		text-align: center;
+		padding-right: 20px;
+	}
+	p.h_p4 {
+		width: 100%;
+		text-align: center;
+		padding-right: 20px;
+	}
+}
